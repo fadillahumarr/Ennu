@@ -1,2 +1,2 @@
-# Website-personakl
+# Website-personal
 Tugas Pemrograman Web
